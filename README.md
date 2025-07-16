@@ -15,7 +15,7 @@
 
 ### 1단계: 아이디어 스케치
 ![스케치 이미지](sketch.jpg)
-- 아이디어 설명
+- 페트병을 물고기삼아 네임펜으로 물고기처럼 꾸미고 안에 비닐봉지와 LED를 넣어 미세플라스틱을 먹은 물고기라는걸 알리게하는거야 동시에 무드등같은 역할을 할수있게 만들었다.
 - 예상 완성도
 
 ### 2단계: 완성품
@@ -46,7 +46,7 @@
 - 나는 앞으로 플라스틱, 비닐봉지같은 일회용성 쓰레기를 최대한 배출하지 않고 바닷가 근처에 쓰레기가 보이면 가져가 처리하겠습니다.
 
 ## 📚 참고 자료
-- [환경 관련 웹사이트](링크)
+- [환경 관련 웹사이트](https://www.keco.or.kr/web/index.do;jsessionid=87BA327313B90D14F9805CE2997FB45B.hfkeco)
 - [참고한 에코아트 작품](https://freshmindmag.com/2024/02/02/eco-art-artists-advocating-for-the-environment-through-creativity/?utm_source=chatgpt.com
 )
 
